@@ -12,7 +12,7 @@ This action prints "Hello World" to the log or "Hello" + the name of a person to
 
 ### `time`
 
-The time we greeted you.
+The time we greeted you successfully.
 
 ## Example usage
 
